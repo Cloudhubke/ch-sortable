@@ -1,9 +1,9 @@
 {
-  "name": "polymer-sortablejs",
-  "homepage": "https://github.com/SortableJS/polymer-sortablejs",
+  "name": "ch-sortable",
+  "homepage": "https://github.com/cloudhubke/ch-sortable",
   "main": "sortablejs.html",
   "authors": [
-    "Guten Ye <ywzhaifei@gmail.com>"
+    "Guten Ye <gaithoben@gmail.com>"
   ],
   "description": "Minimalist library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery.",
   "keywords": [
