@@ -1,7 +1,7 @@
 <link rel="import" href="../polymer/polymer.html">
 <script src="../Sortable/Sortable.js"></script>
 
-<dom-module id="sortable-js">
+<dom-module id="ch-sortable">
   <template>
     <content></content>
   </template>
@@ -9,7 +9,7 @@
 <script>
 'use strict';
   Polymer({
-    is: "sortable-js",
+    is: "ch-sortable",
 
     properties: {
       group             : { type: Object, value: () => {return {name: Math.random()};}, observer: "groupChanged" },
